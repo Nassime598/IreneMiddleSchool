@@ -48,7 +48,7 @@ export function About() {
             )}
           >
             <img 
-              src="/images/pexels-lalgecain-2406271.jpg"
+              src="/IreneMiddleSchool/images/pexels-lalgecain-2406271.jpg"
               alt="Students learning in classroom" 
               className="rounded-lg shadow-lg w-full h-[400px] object-cover"
             />

@@ -79,7 +79,7 @@ export function Academics() {
               </div>
               <div>
                 <img 
-                  src="/images/pexels-khalifa-yahaya-650488521-30058879.jpg"
+                  src="/IreneMiddleSchool/images/pexels-khalifa-yahaya-650488521-30058879.jpg"
                   alt="Students in classroom" 
                   className="rounded-lg shadow-md w-full h-[350px] object-cover"
                 />

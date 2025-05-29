@@ -79,7 +79,7 @@ const Academics: React.FC = () => {
             </div>
             <div>
               <img
-                  src="/images/pexels-khalifa-yahaya-650488521-30058879.jpg"
+                  src="/IreneMiddleSchool/images/pexels-khalifa-yahaya-650488521-30058879.jpg"
                   alt="Student learning"
                   className="rounded-lg shadow-lg"
               />

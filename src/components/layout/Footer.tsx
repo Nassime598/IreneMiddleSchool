@@ -2,8 +2,7 @@ import { Phone, Mail, MapPin } from 'lucide-react';
 import { Separator } from '@/components/ui/separator';
 
 export function Footer() {
-  const currentYear = new Date().getFullYear();
-  
+
   return (
     <footer className="bg-gray-900 text-gray-200 pt-12 pb-6">
       <div className="container mx-auto px-4">

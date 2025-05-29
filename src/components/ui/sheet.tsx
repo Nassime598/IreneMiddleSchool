@@ -23,7 +23,7 @@ const SheetOverlay = React.forwardRef<
       className
     )}
     {...props}
-    ref={ref}
+    ref={ref as React.RefObject<HTMLDivElement>}
   />
 ));
 SheetOverlay.displayName = SheetPrimitive.Overlay.displayName;

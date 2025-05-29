@@ -3,9 +3,7 @@ import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs';
 import { 
   Book, 
   FlaskConical, 
-  Monitor, 
-  Utensils, 
-  Trophy, 
+  Monitor,
   BookOpen,
   ChevronLeft,
   ChevronRight
